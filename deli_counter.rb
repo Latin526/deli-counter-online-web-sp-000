@@ -1,4 +1,5 @@
 # Write your code here.
+require_relative '../deli_counter'
 katz_deli = []
 
 take_a_number(katz_deli, "Ada")
