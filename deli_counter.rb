@@ -11,6 +11,10 @@ now_serving(katz_deli)
 
 line(katz_deli)
 
+take_a_number(kats_deli, "Matz")
+
+line(kats_deli)
+
 now_serving(kats_deli)
 
 line(kats_deli)
